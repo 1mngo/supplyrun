@@ -1,0 +1,26 @@
+body {
+  text-align:center;
+  font-family:Arial, Helvetica, sans-serif;
+  background-color:rgb(227, 242, 232);
+  margin: 0;
+}
+
+.section {
+  background-color:rgb(198, 235, 211);
+  border:5px;
+  border-style:solid;
+  border-color:rgb(184, 229, 200);
+  margin-bottom:10px;
+  margin-left:-10px;
+  margin-right:-10px;
+}
+
+.item {
+  background-color:rgb(157, 215, 177);
+  border:2px;
+  border-style:solid;
+  border-color:rgb(124, 171, 141);
+  margin-bottom:10px;
+  margin-left:-10px;
+  margin-right:-10px;
+}
